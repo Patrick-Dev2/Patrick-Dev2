@@ -1,10 +1,10 @@
-<div>
-    Hi I'm Patrick Front End Developer 
+<div id="text" align=center>
+    <h3>🌟 Hi I'm Patrick Front End Developer 🌟<h3>  
 </div>
 
 
 <div id="header" align="center">
-  <img src=https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif
+  <img src=https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI4NjYxNTAsIm5iZiI6MTcxMjg2NTg1MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MTElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDExVDIwMDQxMFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY2ODcyYTYyNDFjMGU3MGZmM2Y3N2Y0MjZkMGU2MWY2ZWIzMGNhYTQxYzU3Nzk3YjdjMTYxMjEzZmYzZjU1MzkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.-endfyXS2gfFo7wX1-yWUW-GcuSOzumKWMeIda9gWGM
 </div>
 
 <!--
