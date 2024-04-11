@@ -1,4 +1,11 @@
-### Hi there 👋
+<div>
+    Hi I'm Patrick Front End Developer 
+</div>
+
+
+<div id="header" align="center">
+  <img src=https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif
+</div>
 
 <!--
 **Patrick-Dev2/Patrick-Dev2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
